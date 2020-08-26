@@ -14,7 +14,7 @@ But why and AI model and not an algorithm like Backtracking?
  but then I had the idea that maybe a well trained model can solve sudokus of any size in P time
  (it can't).
  
- 
+All the code is Python and the model was made with Tensorflow and Keras
  
 This is it. You can use the code to run the solver on your system and input any kind of sudoku you want.
 Have fun.
